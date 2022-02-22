@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahminiboina
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning
+- 👀 I’m interested in learning new technologies and to do lots of coding.
+- 🌱 I’m currently learning Spring Boot.
 - 💞️ I’m looking to collaborate on spring boot technology
 - 📫 How to reach me brahminiboina7@gmail.com
 
